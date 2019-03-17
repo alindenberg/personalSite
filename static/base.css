@@ -1,0 +1,47 @@
+body {
+    min-width:100vw;
+    min-height:100vh;
+    background: lightgrey;
+}
+
+nav {
+    background-color: lightgrey;
+}
+
+#footer {
+    margin-top: 5%; 
+    padding:2%;
+    border-top: 1px solid black;
+    width: 100%;
+    bottom: 0;
+}
+
+#content {
+    padding-top: 4%;
+}
+#mypic {
+    max-width: 30%;
+}
+
+.readingList {
+    list-style-type: none;
+}
+
+.readingLink {
+    color: black;
+}
+
+.project, .blogPost {
+    margin-top: 4%;
+}
+
+#sprightfulDashboard {
+    max-width: 100%;
+}
+#sortingGif {
+    max-width: 100%;
+}
+
+.footerLink {
+    color: black;
+}
