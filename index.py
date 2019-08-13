@@ -20,7 +20,7 @@ def readsArticle():
 
 @app.route("/resume")
 def resume():
-    return send_file('static/Resume2018.pdf')
+    return send_file('static/Resume2019.pdf')
 
 @app.route("/reads")
 def reads():
