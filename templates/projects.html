@@ -1,37 +1,46 @@
 {% extends "base.html" %}
 {% block content %}
-    <div class="row">
-        <div class="col-sm-8 offset-sm-2">
-            <div class="project">
-                <h1><u>Energy Dashboard</u></h1>
-                <p>
-                    - A web-application, made for Sprightful LLC, that allows its customers to sign in and see the benefits that Sprightful
-                    is bringing them in an aesthetically pleasing way. Within the application, customers are able to view their solar energy generated, grid energy consumed,
-                    and savings generated over a configurable length of time as well as control their thermostat setting.
-                </p>
-                <p>
-                    - This application uses a technology stack of Python3 in coordination with the Django framework, PostgreSQL for data storage, 
-                    Bootstrap from Twitter, jQuery, HTML, and CSS. Along with this, several API's are interfaced with from the app:
-                    <ul>
-                        <li>Neurio API - Energy info</li>
-                        <li>Ecobee API - Thermostat</li>
-                        <li>Stripe API - Billing</li>
-                    </ul>
-                </p>
-                <img id="sprightfulDashboard" src="{{ url_for('static', filename='dashboard.png') }}">
-            </div>
-            <div class="project">
-                <h1><u>Visualizing Sorts</u></h1>
-                <p>
-                    - A simple application I made using Java & JavaFX to practice implementing sorting algorithms while
-                    also creating a visual aid to further enhance understanding of each sort individually. User may select which
-                    sort they want to see as well as control the rate at which elements are being sorted.
-                </p>
-                <p>
-                    - Github Link: <a href="https://github.com/alindenberg/SortingVisualizer">https://github.com/alindenberg/SortingVisualizer</a> 
-                </p>
-                <img id="sortingGif" src="{{ url_for('static', filename='sortGif.gif') }}">
-            </div>
+<div class="row">
+    <div class="col-sm-8 offset-sm-2">
+        <div class="project">
+            <h1><u>Energy Dashboard</u></h1>
+            <p>
+                - A web-application, made for Sprightful LLC, that allows its customers to sign in and see the benefits
+                that Sprightful
+                is bringing them in an aesthetically pleasing way. Within the application, customers are able to view
+                their solar energy generated, grid energy consumed,
+                and savings generated over a configurable length of time as well as control their thermostat setting.
+            </p>
+            <p>
+                - This application uses a technology stack of VueJs, NodeJs, ExpressJs, MongoDb as well as interfaces
+                with several API's
+                including:
+                <ul>
+                    <li>Neurio API - Energy info</li>
+                    <li>Ecobee API - Thermostat</li>
+                    <li>Stripe API - Billing</li>
+                </ul>
+            </p>
+            <p>
+                - Github Link: <a
+                    href="https://github.com/alindenberg/SprightfulDashboard-FE">https://github.com/alindenberg/SprightfulDashboard-FE</a>
+            </p>
+            <img id="sprightfulDashboard" src="{{ url_for('static', filename='SprightfulDashboard.gif') }}">
+        </div>
+        <div class="project">
+            <h1><u>Visualizing Sorts</u></h1>
+            <p>
+                - A simple application I made using Java & JavaFX to practice implementing sorting algorithms while
+                also creating a visual aid to further enhance understanding of each sort individually. User may select
+                which
+                sort they want to see as well as control the rate at which elements are being sorted.
+            </p>
+            <p>
+                - Github Link: <a
+                    href="https://github.com/alindenberg/SortingVisualizer">https://github.com/alindenberg/SortingVisualizer</a>
+            </p>
+            <img id="sortingGif" src="{{ url_for('static', filename='sortGif.gif') }}">
         </div>
     </div>
+</div>
 {% endblock %}
