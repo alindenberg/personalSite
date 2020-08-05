@@ -1,6 +1,6 @@
 <template>
   <b-row class="writesDiv justify-content-center align-items-center">
-    <p>When pen gets put to paper, you'll be the first to know.</p>
+    <p>Who is to say what I am to say?</p>
   </b-row>
 </template>
 
