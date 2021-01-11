@@ -1,5 +1,22 @@
 [
   {
+    "year": 2021,
+    "reads": [
+      {
+        "link": "https://tinyurl.com/yy9vxpfj",
+        "title": "Alexander Hamilton",
+        "author": "Ron Chernow",
+        "imgLink": "http://books.google.com/books/content?id=4z5eL5SGjEoC&printsec=frontcover&img=1&zoom=1"
+      },
+      {
+        "link": "https://tinyurl.com/yygwen4a",
+        "title": "Economics In One Lesson",
+        "author": "Henry Hazlitt",
+        "imgLink": "http://books.google.com/books/content?id=A50iBxwt7qMC&printsec=frontcover&img=1&zoom=1"
+      }
+    ]
+  },
+  {
     "year": 2020,
     "reads": [
       {
