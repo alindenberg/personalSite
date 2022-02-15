@@ -32,11 +32,11 @@ export default {
   height: 90vh;
 }
 img {
-  max-height: 450px;
-  max-width: 450px;
+  max-height: 50%;
+  max-width: 50%;
   margin: auto;
   display: block;
-  border-radius: 20%;
+  border-radius: 5%;
 }
 #rebooting {
   max-width: 200px;
