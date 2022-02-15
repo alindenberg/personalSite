@@ -1,7 +1,7 @@
 <template>
   <b-row class="home justify-content-center align-items-center">
     <b-col sm="8">
-      <img class="rounded-circle" src="../assets/finishing.jpeg" alt="Good Feels" />
+      <img src="../assets/finishing.jpeg" alt="Good Feels" />
       <p id="rebooting" class="text-nowrap">
         <span>
           Rebooting
@@ -36,6 +36,7 @@ img {
   max-width: 450px;
   margin: auto;
   display: block;
+  border-radius: 20%;
 }
 #rebooting {
   max-width: 200px;
