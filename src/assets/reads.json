@@ -1,7 +1,72 @@
 [
   {
+    "year": 2022,
+    "reads": [
+      {
+        "link": "https://tinyurl.com/",
+        "title": "Tools of Titans",
+        "author": "Tim Ferriss",
+        "imgLink": "http://books.google.com/books/content?id=&printsec=frontcover&img=1&zoom=1"
+      },
+      {
+        "link": "https://tinyurl.com/",
+        "title": "We Learn Nothing",
+        "author": "Tim Kreider",
+        "imgLink": "http://books.google.com/books/content?id=&printsec=frontcover&img=1&zoom=1"
+      },
+      {
+        "link": "https://tinyurl.com/",
+        "title": "Will",
+        "author": "Mark Manson",
+        "imgLink": "http://books.google.com/books/content?id=&printsec=frontcover&img=1&zoom=1"
+      },
+      {
+        "link": "https://tinyurl.com/",
+        "title": "Quarter-Life Crisis",
+        "author": "",
+        "imgLink": "http://books.google.com/books/content?id=&printsec=frontcover&img=1&zoom=1"
+      },
+      {
+        "link": "https://tinyurl.com/",
+        "title": "The Paradox of Choice",
+        "author": "",
+        "imgLink": "http://books.google.com/books/content?id=&printsec=frontcover&img=1&zoom=1"
+      }
+    ]
+  },
+  {
     "year": 2021,
     "reads": [
+      {
+        "link": "https://tinyurl.com/",
+        "title": "Snow Crash",
+        "author": "",
+        "imgLink": "http://books.google.com/books/content?id=&printsec=frontcover&img=1&zoom=1"
+      },
+      {
+        "link": "https://tinyurl.com/",
+        "title": "The Molecule of More",
+        "author": "",
+        "imgLink": "http://books.google.com/books/content?id=&printsec=frontcover&img=1&zoom=1"
+      },
+      {
+        "link": "https://tinyurl.com/",
+        "title": "The 5AM Club",
+        "author": "",
+        "imgLink": "http://books.google.com/books/content?id=&printsec=frontcover&img=1&zoom=1"
+      },
+      {
+        "link": "https://tinyurl.com/",
+        "title": "The Death of Ivan Ilych",
+        "author": "",
+        "imgLink": "http://books.google.com/books/content?id=&printsec=frontcover&img=1&zoom=1"
+      },
+      {
+        "link": "https://tinyurl.com/4rxu7z8h",
+        "title": "The Club",
+        "author": "Joshua Robinson & Jonathan Clegg",
+        "imgLink": "http://books.google.com/books/content?id=cLF5DwAAQBAJ&printsec=frontcover&img=1&zoom=1"
+      },
       {
         "link": "https://tinyurl.com/mu6nnf5s",
         "title": "Tides of War",
