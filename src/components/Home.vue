@@ -1,7 +1,7 @@
 <template>
   <b-row class="home justify-content-center align-items-center">
     <b-col sm="8">
-      <img class="rounded-circle" src="../assets/CartoonColombia.jpg" alt="Cartoon Me" />
+      <img class="rounded-circle" src="../assets/finishing.jpeg" alt="Good Feels" />
       <p id="rebooting" class="text-nowrap">
         <span>
           Rebooting
