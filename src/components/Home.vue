@@ -1,7 +1,7 @@
 <template>
   <b-row class="home justify-content-center align-items-center">
     <b-col sm="8">
-      <img src="../assets/finishing.jpeg" alt="Good Feels" />
+      <img src="../assets/95_finishing.JPG" alt="Good Feels" />
       <p id="rebooting" class="text-nowrap">
         <span>
           Rebooting
